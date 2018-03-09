@@ -80,7 +80,7 @@
 	transform: scaleY(0);
 	content: "";
 	height: 100%;
-	width: 2px;
+	width: 4px;
 	background: black;
 	transition: transform 250ms;
 }
